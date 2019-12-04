@@ -15,13 +15,17 @@ import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+
 public class AppDriverSetup {
 	
 	protected WebDriver driver;
 	private static final String URL = "https://booking.com";
 	private String driverPath = System.getProperty("user.dir")+"\\src\\test\\resources\\drivers\\";
+	private final String browser = "FireFox";
 	
-	public AppDriverSetup(String browser){
+	public void driverSetup(){
 		switch(browser.toUpperCase()){
 			case "IE":
 				InternetExplorerOptions  ieoptions = new InternetExplorerOptions();

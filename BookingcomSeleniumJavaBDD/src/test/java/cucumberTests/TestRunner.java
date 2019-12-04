@@ -1,4 +1,4 @@
-package tests;
+package cucumberTests;
 
 public class TestRunner {
 

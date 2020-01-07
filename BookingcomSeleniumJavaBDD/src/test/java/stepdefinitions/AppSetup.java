@@ -1,9 +1,15 @@
 package stepdefinitions;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -17,15 +23,39 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import pages.AirportTaxisPage;
+import pages.CarRentalsPage;
+import pages.FlightsPage;
+import pages.HomePage;
 
-public class AppDriverSetup {
+public class AppSetup {
 	
 	protected WebDriver driver;
-	private static final String URL = "https://booking.com";
-	private String driverPath = System.getProperty("user.dir")+"\\src\\test\\resources\\drivers\\";
-	private final String browser = "FireFox";
+	protected Logger logger;
+	private Properties configProperties;
 	
-	public void driverSetup(){
+	public HomePage homePage;
+	public FlightsPage flightsPage;
+	public CarRentalsPage carRentalsPage;
+	public AirportTaxisPage airportTaxisPage;
+	
+	
+	public void setup() throws FileNotFoundException{
+		configProperties = new Properties();
+		FileInputStream configPropFile = new FileInputStream("config.properties");
+		try {
+			configProperties.load(configPropFile);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		String browser = configProperties.getProperty("browser");
+		String URL = configProperties.getProperty("applicationURL");
+		logger = Logger.getLogger("Booking");
+		PropertyConfigurator.configure("log4j.properties");
+		logger.info("------Starting Web Driver session - Booking.com UI-----");
+		
 		switch(browser.toUpperCase()){
 			case "IE":
 				InternetExplorerOptions  ieoptions = new InternetExplorerOptions();
@@ -35,7 +65,7 @@ public class AppDriverSetup {
 				ieoptions.setCapability(CapabilityType.SUPPORTS_APPLICATION_CACHE, true);
 				ieoptions.setCapability(CapabilityType.SUPPORTS_ALERTS, true);	
 				
-				System.setProperty("webdriver.chrome.driver", driverPath+"iedriver.exe");			
+				System.setProperty("webdriver.ie.driver", configProperties.getProperty("iepath"));			
 				this.driver = new InternetExplorerDriver();
 				break;
 			case "FIREFOX":
@@ -53,7 +83,7 @@ public class AppDriverSetup {
 				foptions.setCapability(CapabilityType.SUPPORTS_APPLICATION_CACHE, true);
 				foptions.setCapability(CapabilityType.SUPPORTS_ALERTS, true);				
 				
-				System.setProperty("webdriver.chrome.driver", driverPath+"chromedriver.exe");			
+				System.setProperty("webdriver.gecko.driver", configProperties.getProperty("firefoxpath"));			
 				this.driver = new FirefoxDriver(foptions);
 				break;
 			case "CHROME":
@@ -69,7 +99,7 @@ public class AppDriverSetup {
 				coptions.setCapability(CapabilityType.SUPPORTS_APPLICATION_CACHE, true);
 				coptions.setCapability(CapabilityType.SUPPORTS_ALERTS, true);	
 				
-				System.setProperty("webdriver.chrome.driver", driverPath+"chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", configProperties.getProperty("chromepath"));
 				this.driver = new ChromeDriver(coptions);
 				break;
 			default:
@@ -77,6 +107,23 @@ public class AppDriverSetup {
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(URL);
+		driver.manage().window().maximize();
+	}
+	
+	protected void initializeHomePage(){
+		homePage = new HomePage(driver);
+	}
+	
+	protected void initializeFlightsPage(){
+		flightsPage = new FlightsPage(driver);
+	}
+	
+	protected void initializeCarRentalsPage(){
+		carRentalsPage = new CarRentalsPage(driver);
+	}
+	
+	protected void initializeAirportTaxisPage(){
+		airportTaxisPage = new AirportTaxisPage(driver);
 	}
 	
 	public void tearDown(){

@@ -8,6 +8,7 @@ import org.junit.Assert;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -17,7 +18,7 @@ import pages.CarRentalsPage;
 import pages.FlightsPage;
 import pages.HomePage;
 
-public class BookingcomNavigationStepDefs extends AppSetup{
+public class BookingcomStepDefs extends AppSetup{
 	
 	@Before
 	public void start() throws FileNotFoundException{
@@ -91,6 +92,30 @@ public class BookingcomNavigationStepDefs extends AppSetup{
     	logger.debug("-----Verifying navigation to Flights Page-----");
     	Assert.assertTrue(flightsPage.isFlightsPageDisplayed());
     	logger.info("-----Flights Page title is displayed-----");
+	}
+    
+	@When("Search is performed with {string} and {string} in the Flights page for {int} adults")
+	public void search_flights(String origin, String destination, int nooftravellers){
+		System.out.println("Searching flights");
+		logger.info("-----Searching flights-----");
+	}
+	
+	@Then("Search Results page should be displayed")
+	public void search_results_page_verify(){
+		System.out.println("In Search Results page ");
+		logger.info("-----In Search Results page-----");
+	}
+	
+	@And("Each itinerary should contain single way flight details")
+	public void check_single_way_flight(){
+		System.out.println("Verifying only one way flight is shown");
+		logger.debug("-----Verifying only one way flight is shown-----");
+	}
+	
+	@And("Each itinerary should contain two way flight details")
+	public void check_two_way_flight(){
+		System.out.println("Verifying only two way flight is shown");
+		logger.debug("-----Verifying only two way flight is shown-----");
 	}
 
 }

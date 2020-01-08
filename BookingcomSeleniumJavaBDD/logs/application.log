@@ -150,3 +150,336 @@
 2020-01-08 00:46:04,942 [main] INFO Booking - -----Searching flights-----
 2020-01-08 00:46:04,943 [main] INFO Booking - -----In Search Results page-----
 2020-01-08 00:46:04,945 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:09:30,340 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:09:45,838 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:09:46,039 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:09:49,594 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:09:59,795 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:10:00,663 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:10:15,259 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:10:15,407 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:10:18,832 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:10:28,856 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:31:51,723 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:32:06,429 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:32:06,716 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:32:10,405 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:32:20,513 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:32:21,309 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:32:35,154 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:32:35,361 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:32:38,447 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:32:48,484 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:38:01,594 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:38:16,603 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:38:16,917 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:38:20,043 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:38:30,085 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:38:30,922 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:38:44,321 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:38:44,484 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:38:47,769 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:38:57,796 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:40:04,970 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:40:19,702 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:40:20,006 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:40:23,163 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:44:22,802 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:44:39,694 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:44:40,293 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:44:43,977 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:44:54,537 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:44:55,353 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:45:09,431 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:45:09,750 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:45:13,142 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 17:45:23,646 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 17:46:54,151 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:47:09,466 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 17:47:09,710 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 17:47:13,156 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:00:51,034 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:01:06,539 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:01:06,923 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:01:11,514 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:01:12,575 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 18:01:13,458 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:01:26,657 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:01:26,753 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:01:30,049 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:01:31,110 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 18:03:20,657 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:03:37,150 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:03:37,300 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:03:40,597 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:03:41,851 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 18:03:42,712 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:03:55,647 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:03:55,915 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:03:58,907 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:04:00,047 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 18:05:12,593 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:05:27,454 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:05:27,714 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:05:30,683 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:08:14,373 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:08:29,306 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:08:29,620 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:08:33,051 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:26:06,468 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:26:21,507 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:26:21,903 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:26:25,258 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:34:44,326 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:35:00,605 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:35:00,903 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:35:04,966 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 18:36:25,176 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:36:41,280 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 18:36:41,597 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 18:36:45,408 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 20:29:08,244 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 20:29:24,129 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 20:29:24,617 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 20:29:29,933 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 20:57:42,147 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 20:57:58,491 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 20:57:58,833 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 20:58:02,304 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:08:42,526 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:08:57,410 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:08:57,733 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:09:01,199 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:12:07,822 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:12:23,329 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:12:23,505 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:12:27,585 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:12:30,198 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 21:12:31,098 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:12:46,350 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:12:46,511 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:12:49,673 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:12:52,281 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 21:14:47,439 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:15:02,376 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:15:02,611 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:15:05,910 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:21:54,664 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:22:10,376 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:22:10,738 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:22:13,742 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:31:20,489 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:31:35,717 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:31:35,966 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:31:39,121 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:33:08,990 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:33:24,204 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:33:24,482 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:33:28,478 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:36:13,730 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:36:29,087 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:36:29,322 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:36:34,109 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 21:40:32,957 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:40:48,235 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 21:40:48,482 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 21:40:51,592 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:07:26,024 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:07:41,761 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:07:42,009 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:07:46,413 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:17:28,211 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:17:43,383 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:17:43,811 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:17:48,362 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:20:10,983 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:20:26,806 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:20:41,917 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:20:42,262 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:20:46,104 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:30:07,780 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:30:24,411 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:30:24,632 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:30:28,004 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:32:28,485 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:32:44,736 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:32:45,109 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:32:48,071 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:36:46,595 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:37:02,238 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:37:02,524 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:37:05,661 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:37:17,232 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 22:37:18,083 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:37:31,373 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:37:31,585 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:37:35,260 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:37:46,442 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 22:42:00,397 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:42:15,302 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:42:15,552 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:42:19,581 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:48:21,162 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:48:37,565 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:48:37,901 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:48:41,424 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:52:38,799 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:52:54,524 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:52:54,844 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:52:58,687 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:53:59,331 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:54:15,214 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:54:15,483 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:54:18,486 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 22:57:20,189 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:57:35,419 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 22:57:35,646 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 22:57:40,455 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:00:36,950 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:00:52,351 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:00:52,635 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:00:56,363 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:05:34,073 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:05:49,793 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:05:50,094 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:05:54,306 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:06:05,651 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 23:06:06,523 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:06:21,040 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:06:21,301 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:06:24,405 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:06:36,130 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 23:08:13,488 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:08:28,860 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:08:29,114 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:08:33,171 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:11:02,549 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:11:17,089 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:11:17,436 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:11:21,677 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:13:45,866 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:14:01,718 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:14:02,065 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:14:05,256 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:27:33,935 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:27:48,796 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:27:49,059 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:27:52,178 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:28:04,908 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 23:28:05,744 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:30:15,573 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:30:31,310 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:30:31,559 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:30:34,801 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:31:55,669 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:32:11,560 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:32:11,863 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:32:14,753 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:34:27,077 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:34:42,892 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:34:43,211 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:34:46,557 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:37:12,823 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:37:27,782 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:37:28,048 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:37:31,036 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:45:17,789 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:45:34,735 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:45:50,677 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:45:51,006 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:45:53,894 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-08 23:46:07,192 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-08 23:46:08,059 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:52:50,698 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:53:05,668 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-08 23:53:05,968 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-08 23:53:09,026 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:02:39,476 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:02:56,067 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:02:56,318 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:02:59,261 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:05:11,523 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:05:27,616 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:05:27,923 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:05:31,880 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:06:43,475 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 00:06:44,303 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:12:07,695 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:12:23,094 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:12:23,322 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:12:26,961 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:12:39,909 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 00:12:40,793 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:12:54,114 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:12:54,416 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:12:57,388 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:13:00,647 [main] INFO Booking - -----Searching flights-----
+2020-01-09 00:13:00,649 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 00:13:10,725 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 00:21:52,826 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:22:07,738 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:22:07,973 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:22:11,278 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:22:24,280 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 00:22:25,155 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:22:39,283 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:22:39,560 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:22:43,136 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:22:46,500 [main] INFO Booking - -----Searching flights-----
+2020-01-09 00:22:46,501 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 00:22:56,528 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 00:31:41,925 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:31:57,464 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:31:57,772 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:32:01,514 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:34:30,600 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:34:45,820 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:34:46,044 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:34:50,943 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:34:54,251 [main] INFO Booking - -----Searching flights-----
+2020-01-09 00:36:26,117 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:36:48,211 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:36:48,724 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:36:52,246 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:36:55,931 [main] INFO Booking - -----Searching flights-----
+2020-01-09 00:37:50,919 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:38:05,846 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 00:38:06,189 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 00:38:08,828 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 00:38:12,939 [main] INFO Booking - -----Searching flights-----
+2020-01-09 00:39:01,967 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 01:12:58,498 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:13:11,928 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:13:12,273 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 01:13:15,007 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 01:13:18,502 [main] INFO Booking - -----Searching flights-----
+2020-01-09 01:16:07,131 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 01:16:43,479 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 01:16:53,575 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:17:05,354 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:17:07,777 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 01:17:11,863 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 01:17:15,681 [main] INFO Booking - -----Searching flights-----
+2020-01-09 01:17:15,691 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 01:17:26,922 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 01:21:05,152 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:21:16,322 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:21:16,641 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 01:21:19,198 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 01:21:22,238 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 01:21:28,686 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:21:36,495 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 01:23:29,353 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:23:42,147 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:23:42,589 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 01:23:45,074 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 01:23:48,453 [main] INFO Booking - -----Searching flights-----
+2020-01-09 01:23:48,455 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 01:23:58,695 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----
+2020-01-09 01:24:04,876 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:24:14,341 [main] INFO Booking - ------Starting Web Driver session - Booking.com UI-----
+2020-01-09 01:24:14,527 [main] INFO Booking - -----Clicking on Flights link-----
+2020-01-09 01:24:16,764 [main] INFO Booking - -----Flights Page title is displayed-----
+2020-01-09 01:24:20,241 [main] INFO Booking - -----Searching flights-----
+2020-01-09 01:24:20,243 [main] INFO Booking - -----In Search Results page-----
+2020-01-09 01:24:30,462 [main] INFO Booking - -----Shutting down application Booking.com/ driver-----

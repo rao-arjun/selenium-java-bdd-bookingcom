@@ -15,7 +15,7 @@ formatter.scenarioOutline({
   ]
 });
 formatter.step({
-  "name": "Search is performed with \"\u003corigin\u003e\" and \"\u003cdestination\u003e\" in the Flights page for \u003cnooftravellers\u003e adults",
+  "name": "Return Search is performed with \"\u003corigin\u003e\" and \"\u003cdestination\u003e\" in the Flights page for \u003cnooftravellers\u003e adults",
   "keyword": "When "
 });
 formatter.step({
@@ -40,16 +40,16 @@ formatter.examples({
     },
     {
       "cells": [
-        "Bengaluru",
-        "Mumbai",
+        "Bengaluru (BLR)",
+        "Mumbai (BOM)",
         "2"
       ]
     },
     {
       "cells": [
-        "Chennai",
-        "Kolkata",
-        "3"
+        "Chennai (MAS)",
+        "Kolkata (CCU)",
+        "1"
       ]
     }
   ]
@@ -67,7 +67,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.homepage_of_bookingcom_is_displayed()"
+  "location": "BookingcomStepDefs.homepage_of_bookingcom_is_displayed()"
 });
 formatter.result({
   "status": "passed"
@@ -77,7 +77,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.flights_link_is_clicked()"
+  "location": "BookingcomStepDefs.flights_link_is_clicked()"
 });
 formatter.result({
   "status": "passed"
@@ -87,7 +87,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.flights_page_is_displayed()"
+  "location": "BookingcomStepDefs.flights_page_is_displayed()"
 });
 formatter.result({
   "status": "passed"
@@ -103,11 +103,11 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "Search is performed with \"Bengaluru\" and \"Mumbai\" in the Flights page for 2 adults",
+  "name": "Return Search is performed with \"Bengaluru (BLR)\" and \"Mumbai (BOM)\" in the Flights page for 2 adults",
   "keyword": "When "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.search_flights(String,String,int)"
+  "location": "BookingcomStepDefs.search_flights_return(String,String,int)"
 });
 formatter.result({
   "status": "passed"
@@ -117,20 +117,21 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.search_results_page_verify()"
+  "location": "BookingcomStepDefs.search_results_page_verify()"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (a3fafbcd-085d-452c-a17d-8e04c315fc77)] -\u003e xpath: //div[contains(@id,\u0027results-section\u0027)]] (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-SMAT8QD\u0027, ip: \u0027192.168.0.5\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21920, moz:profile: C:\\Users\\arjunrao\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: a3fafbcd-085d-452c-a17d-8e04c315fc77\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat utils.SeleniumOperations.waitForElementToBePresent(SeleniumOperations.java:16)\r\n\tat pages.SearchResultsPage.isSearchResultDisplayed(SearchResultsPage.java:19)\r\n\tat stepdefinitions.BookingcomStepDefs.search_results_page_verify(BookingcomStepDefs.java:116)\r\n\tat ✽.Search Results page should be displayed(file:src/test/resources/features/Flights.feature:22)\r\n",
+  "status": "failed"
 });
 formatter.step({
   "name": "Each itinerary should contain two way flight details",
   "keyword": "And "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.check_two_way_flight()"
+  "location": "BookingcomStepDefs.check_two_way_flight()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
   "status": "passed"
@@ -148,7 +149,7 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.homepage_of_bookingcom_is_displayed()"
+  "location": "BookingcomStepDefs.homepage_of_bookingcom_is_displayed()"
 });
 formatter.result({
   "status": "passed"
@@ -158,7 +159,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.flights_link_is_clicked()"
+  "location": "BookingcomStepDefs.flights_link_is_clicked()"
 });
 formatter.result({
   "status": "passed"
@@ -168,7 +169,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.flights_page_is_displayed()"
+  "location": "BookingcomStepDefs.flights_page_is_displayed()"
 });
 formatter.result({
   "status": "passed"
@@ -184,11 +185,11 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "Search is performed with \"Chennai\" and \"Kolkata\" in the Flights page for 3 adults",
+  "name": "Return Search is performed with \"Chennai (MAS)\" and \"Kolkata (CCU)\" in the Flights page for 1 adults",
   "keyword": "When "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.search_flights(String,String,int)"
+  "location": "BookingcomStepDefs.search_flights_return(String,String,int)"
 });
 formatter.result({
   "status": "passed"
@@ -198,20 +199,21 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.search_results_page_verify()"
+  "location": "BookingcomStepDefs.search_results_page_verify()"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (e9e9a10c-06f6-4707-8c2b-604cf4bd0be4)] -\u003e xpath: //div[contains(@id,\u0027results-section\u0027)]] (tried for 10 second(s) with 500 milliseconds interval)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-SMAT8QD\u0027, ip: \u0027192.168.0.5\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 21484, moz:profile: C:\\Users\\arjunrao\\AppData\\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: e9e9a10c-06f6-4707-8c2b-604cf4bd0be4\r\n\tat org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)\r\n\tat utils.SeleniumOperations.waitForElementToBePresent(SeleniumOperations.java:16)\r\n\tat pages.SearchResultsPage.isSearchResultDisplayed(SearchResultsPage.java:19)\r\n\tat stepdefinitions.BookingcomStepDefs.search_results_page_verify(BookingcomStepDefs.java:116)\r\n\tat ✽.Search Results page should be displayed(file:src/test/resources/features/Flights.feature:22)\r\n",
+  "status": "failed"
 });
 formatter.step({
   "name": "Each itinerary should contain two way flight details",
   "keyword": "And "
 });
 formatter.match({
-  "location": "BookingcomNavigationStepDefs.check_two_way_flight()"
+  "location": "BookingcomStepDefs.check_two_way_flight()"
 });
 formatter.result({
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
   "status": "passed"

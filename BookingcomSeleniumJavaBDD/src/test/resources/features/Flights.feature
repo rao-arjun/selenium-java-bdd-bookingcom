@@ -23,6 +23,6 @@ Background: The user should be in the Flights section in the application
     And Each itinerary should contain two way flight details
 
     Examples: 
-      | origin   | destination | nooftravellers|
-      | Bengaluru| Mumbai			 | 2             |
-      | Chennai  | Kolkata		 | 1             |
+      | origin         | destination  | nooftravellers|
+      | Bengaluru (BLR)| Mumbai (BOM) | 2             |
+      | Chennai (MAS)  | Kolkata (CCU)| 1             |

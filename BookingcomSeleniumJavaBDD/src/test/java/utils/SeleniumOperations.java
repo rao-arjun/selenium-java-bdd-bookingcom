@@ -16,4 +16,10 @@ public class SeleniumOperations {
 		wait.until(ExpectedConditions.visibilityOf(element));
 		return element.isDisplayed();
 	}
+	
+	public static boolean waitForElementToBeActive(WebDriver driver, WebElement element){
+		wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(element));
+		return element.isEnabled();
+	}
 }

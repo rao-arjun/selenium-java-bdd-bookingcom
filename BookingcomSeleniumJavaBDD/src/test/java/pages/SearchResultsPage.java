@@ -8,8 +8,8 @@ import utils.SeleniumOperations;
 
 public class SearchResultsPage {
 	private WebDriver driver;
-	private By searchResultsSection = By.xpath("//*[@id='QnDk-results-section']");
-	private By bestFlightSection = By.xpath("//div[@class='best-flights-list']//*[@id='Bt2T-info']/ol)");
+	private By searchResultsSection = By.xpath("//div[contains(@id,'results-section')]");
+	private By bestFlightSection = By.xpath("//div[@class='best-flights-list-results']//*[contains(@class,'Flights-Results-ResultInfo')]//ol");
 	
 	public SearchResultsPage(WebDriver driver){
 		this.driver = driver;

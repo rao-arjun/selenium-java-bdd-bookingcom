@@ -150,3 +150,336 @@
 [main] INFO  Booking  - -----Searching flights-----
 [main] INFO  Booking  - -----In Search Results page-----
 [main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - ------Starting Web Driver session - Booking.com UI-----
+[main] INFO  Booking  - -----Clicking on Flights link-----
+[main] INFO  Booking  - -----Flights Page title is displayed-----
+[main] INFO  Booking  - -----Searching flights-----
+[main] INFO  Booking  - -----In Search Results page-----
+[main] INFO  Booking  - -----Shutting down application Booking.com/ driver-----

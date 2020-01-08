@@ -24,10 +24,6 @@ public class BookingcomStepDefs extends AppSetup{
 	public void start() throws FileNotFoundException{
 		setup();
 		logger.info("------Starting Web Driver session - Booking.com UI-----");
-		initializeHomePage();
-		initializeAirportTaxisPage();
-		initializeCarRentalsPage();
-		initializeFlightsPage();
 	}
 	
 	@After
@@ -40,6 +36,7 @@ public class BookingcomStepDefs extends AppSetup{
 	public void homepage_of_bookingcom_is_displayed(){
 		System.out.println("Verifying Home page displayed");
 		logger.debug("-----Verifying Home page displayed-----");
+		initializeHomePage();
 		Assert.assertTrue("Booking.com Home Page displayed?", homePage.isWebPageTitleBookingCom());
 	}
 	
@@ -67,6 +64,7 @@ public class BookingcomStepDefs extends AppSetup{
     @Then("Airport Taxis Page is displayed")
     public void airport_taxis_page_is_displayed(){
     	logger.debug("-----Verifying navigation to Airport Taxis Page-----");
+    	initializeAirportTaxisPage();
     	if(airportTaxisPage.isAirportTaxisPageDisplayed()){
     		Assert.assertTrue(airportTaxisPage.returnPageHeaderTitle().contains("airport taxi"));
     		logger.info("-----Airport Taxis Page title is displayed-----");
@@ -78,6 +76,7 @@ public class BookingcomStepDefs extends AppSetup{
     @Then("Car Rentals Page is displayed")
     public void car_rentals_page_is_displayed(){
     	logger.debug("-----Verifying navigation to Airport Taxis Page-----");
+    	initializeCarRentalsPage();
     	if(carRentalsPage.isCarRentalsPageDisplayed()){
     		System.out.println("The title is" + carRentalsPage.returnPageHeaderTitle());
     		Assert.assertTrue(carRentalsPage.returnPageHeaderTitle().contains("Car rentals"));
@@ -90,32 +89,46 @@ public class BookingcomStepDefs extends AppSetup{
     @Then("Flights Page is displayed")
 	public void flights_page_is_displayed(){
     	logger.debug("-----Verifying navigation to Flights Page-----");
+    	initializeFlightsPage();
     	Assert.assertTrue(flightsPage.isFlightsPageDisplayed());
     	logger.info("-----Flights Page title is displayed-----");
 	}
     
-	@When("Search is performed with {string} and {string} in the Flights page for {int} adults")
-	public void search_flights(String origin, String destination, int nooftravellers){
+	@When("One Way Search is performed with {string} and {string} in the Flights page for {int} adults")
+	public void search_flights_oneWay(String origin, String destination, int nooftravellers){
+		System.out.println("Searching flights");
+		logger.info("-----Searching flights-----");
+		flightsPage.searchFlightsOneWay(origin, destination, nooftravellers);
+	}
+	
+	@When("Return Search is performed with {string} and {string} in the Flights page for {int} adults")
+	public void search_flights_return(String origin, String destination, int nooftravellers){
+		flightsPage.searchFlightsReturn(origin, destination, nooftravellers);
 		System.out.println("Searching flights");
 		logger.info("-----Searching flights-----");
 	}
 	
 	@Then("Search Results page should be displayed")
 	public void search_results_page_verify(){
+		initializeSearchResultsPage();
 		System.out.println("In Search Results page ");
 		logger.info("-----In Search Results page-----");
+		Assert.assertTrue(searchResultsPage.isSearchResultDisplayed());
 	}
 	
 	@And("Each itinerary should contain single way flight details")
 	public void check_single_way_flight(){
 		System.out.println("Verifying only one way flight is shown");
 		logger.debug("-----Verifying only one way flight is shown-----");
+		Assert.assertEquals(1, searchResultsPage.countOfFlightPlansInItineraryOfBestFlight());
 	}
 	
 	@And("Each itinerary should contain two way flight details")
 	public void check_two_way_flight(){
 		System.out.println("Verifying only two way flight is shown");
 		logger.debug("-----Verifying only two way flight is shown-----");
+		Assert.assertEquals(2, searchResultsPage.countOfFlightPlansInItineraryOfBestFlight());
+
 	}
 
 }

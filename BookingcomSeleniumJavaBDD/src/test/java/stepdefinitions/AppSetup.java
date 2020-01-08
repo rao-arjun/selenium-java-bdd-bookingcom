@@ -27,6 +27,7 @@ import pages.AirportTaxisPage;
 import pages.CarRentalsPage;
 import pages.FlightsPage;
 import pages.HomePage;
+import pages.SearchResultsPage;
 
 public class AppSetup {
 	
@@ -38,7 +39,7 @@ public class AppSetup {
 	public FlightsPage flightsPage;
 	public CarRentalsPage carRentalsPage;
 	public AirportTaxisPage airportTaxisPage;
-	
+	public SearchResultsPage searchResultsPage;
 	
 	public void setup() throws FileNotFoundException{
 		configProperties = new Properties();
@@ -126,6 +127,9 @@ public class AppSetup {
 		airportTaxisPage = new AirportTaxisPage(driver);
 	}
 	
+	protected void initializeSearchResultsPage(){
+		searchResultsPage = new SearchResultsPage(driver);
+	}
 	public void tearDown(){
 		this.driver.quit();
 	}
